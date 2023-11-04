@@ -1,1 +1,1 @@
-# RL_learnig
+# Reinforcement learning resource
